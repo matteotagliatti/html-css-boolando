@@ -107,6 +107,10 @@ p, span {
     font-weight: bold;
 }
 
+.brand {
+    text-transform: capitalize;
+}
+
 .name-product {
     text-transform: uppercase;
 }
