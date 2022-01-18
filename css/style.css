@@ -87,6 +87,10 @@ p, span {
     background-color: #008354;
 }
 
+.l0 {
+    left: 0;
+}
+
 .heart-container {
     top: 20px;
     right: 0;
