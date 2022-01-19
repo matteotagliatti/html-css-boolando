@@ -31,6 +31,7 @@ p, span {
 .container {
     max-width: 950px;
     margin: 30px auto;
+    text-align: center;
 }
 
 .row {
@@ -109,6 +110,10 @@ p, span {
 
 .bold {
     font-weight: bold;
+}
+
+.product-info {
+    text-align: left;
 }
 
 .brand {
